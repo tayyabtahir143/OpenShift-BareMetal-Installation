@@ -554,7 +554,7 @@ It contain the kebeadmin password to access the web console.
 ```bash
 cat /config/auth/kubeadmin-password
 oc get route -n openshift-console
-
+```
 
 ![Cluster verification](Images/22.gif)
 
